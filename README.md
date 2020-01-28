@@ -1,1 +1,1 @@
-# homekit-led-strip
+Apple Homekit ESP8266
